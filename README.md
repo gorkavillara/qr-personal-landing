@@ -1,2 +1,1 @@
-# qr-personal-landing
-Created with CodeSandbox
+# Landing page personal
